@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Akhil Kumar",
+    "email": "shim@gmail.com",
+    "password": 123422,
+    "id": 974
+  },
+  {
+    "fullName": "Kumar shivam",
+    "email": "abcgmail.com",
+    "password": 1234567,
+    "id": 902
+  },
+  {
+    "fullName": "Akhil Kumar",
+    "email": "kgmail.com",
+    "password": 1234567,
+    "id": 93
+  },
+  {
+    "fullName": "Aditya Kumar",
+    "email": "ad@gmail.com",
+    "password": "123456",
+    "id": 541
+  },
+  {
+    "fullName": "bhutn",
+    "email": "ad@gmail.com",
+    "password": "12345678",
+    "id": 117
+  }
+]
